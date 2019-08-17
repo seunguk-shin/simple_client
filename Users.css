@@ -1,0 +1,19 @@
+.user-info {
+  display: flex;
+}
+
+.user-info:hover .delete-button {
+  opacity: 1;
+}
+
+.user-id {
+}
+
+.user-email {
+}
+
+.user-name {
+}
+
+.delete-button {
+}
